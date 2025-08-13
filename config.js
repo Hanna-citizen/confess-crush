@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Tao biết mà 🥰. Yêu nhiều nhiều 😘😘',
     messDesc: 'Han qua đón đi chơi nhó.',
     btnAccept: 'Phải điii <3',
-    messLink: 'https://www.canva.com/design/DAGv9b3M3_o/Exl5tfuts6riyIc3j172gg/edit' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.canva.com/design/DAGv9b3M3_o/Exl5tfuts6riyIc3j172gg/edit?utm_content=DAGv9b3M3_o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
